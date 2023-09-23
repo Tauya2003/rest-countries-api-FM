@@ -11,7 +11,6 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -31,16 +30,10 @@ Users should be able to:
 - Click through to the border countries on the detail page
 - Toggle the color scheme between light and dark mode *(optional)*
 
-### Screenshot
-
-- [desktop_(dark)](src/assets/screenshots/desktop (dark).png)
-- [mobile_(dark)](src/assets/screenshots/mobile (dark).png)
-- [mobile_(light)](src/assets/screenshots/mobile (light).png)
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Tauya2003/rest-countries-api-FM)
+- Live Site URL: [Live site URL](https://rest-countries-api-fm-tauya.vercel.app/)
 
 ## My process
 
@@ -52,9 +45,9 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Material UI](https://mui.com/) - 
-- [React Route Dom](https://reactrouter.com) - 
-- [Axios](https://axios-http.com) -
+- [Material UI](https://mui.com/) -  React component library
+- [React Route Dom](https://reactrouter.com) - Routing for React applications 
+- [Axios](https://axios-http.com) - Promise-based HTTP client
 
 ## Author
 
